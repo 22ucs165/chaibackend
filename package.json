@@ -20,9 +20,12 @@
     "prettier": "^3.6.0"
   },
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "cookies": "^0.9.1",
     "cors": "^2.8.5",
     "express": "^5.1.0",
-    "mongoose": "^8.16.0"
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.0",
+    "mongoose-aggregate-paginate-v2": "^1.1.4"
   }
 }
